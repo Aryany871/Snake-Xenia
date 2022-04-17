@@ -8,10 +8,10 @@ Avoid collision of snake's head with body/tail to continue in the game, else the
 
 ![](Resources/2s.jpeg)
 
-Use arrow keys to control the direction of the snake.
+Use **arrow keys** to control the direction of the snake.
 
-To play this game on your system- download the files and run the main. Make sure you have installed a Python IDE on your system.
-You can also run this game using code editors like VSCode.
+To play this game on your system- download the files and run the **game.py** file. Make sure you have installed a Python IDE on your system.
+You can also run this game using code editors like VSCode,Atom,etc.
 
 **Thank You**
 
